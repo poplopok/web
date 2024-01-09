@@ -56,7 +56,8 @@ Angular: клиент-серверное взаимодействие, созд�
 mvn spring-boot:run
 
 Запуск frontend:
-cd front:
+cd front
+
 npm start
 
 
