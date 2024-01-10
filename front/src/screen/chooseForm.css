@@ -1,4 +1,4 @@
-@media (max-width: 772px)  {
+@media (max-width: 822px)  {
     .container2 {
         background-color: white;
         width: 85%;
@@ -71,7 +71,7 @@
     }
 }
 
-@media (min-width: 772px)  {
+@media (min-width: 822px)  {
     .container2 {
         background-color: white;
         width: 85%;
@@ -144,7 +144,7 @@
     }
 }
 
-@media (min-width: 1111px)  {
+@media (min-width: 1116px)  {
     .container2 {
         background-color: white;
         width: 85%;

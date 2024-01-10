@@ -1,4 +1,4 @@
-@media (max-width: 772px)  {
+@media (max-width: 822px)  {
     .form {
         position: absolute;
         top: 250px;
@@ -42,7 +42,7 @@
         color: red;
     }
 }
-@media (min-width: 772px)  {
+@media (min-width: 822px)  {
     .form {
         position: absolute;
         top: 250px;
@@ -81,7 +81,7 @@
     }
 }
 
-@media (min-width: 1111px)  {
+@media (min-width: 1116px)  {
     .form {
         position: absolute;
         top: 250px;
